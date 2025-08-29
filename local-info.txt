@@ -1,0 +1,6 @@
+dbuser - root
+dbpasswd - pass@1234
+
+git token - sdbjhfffvysfdyfvfbs3093200
+
+aws token - djinjsdnjdndvfaweiurwj38324
